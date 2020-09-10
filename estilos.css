@@ -3,3 +3,11 @@
     background-color: aquamarine;
     color:blue;
 }
+.boton{
+    color: red;
+    background-color: burlywood;
+    border-radius: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
