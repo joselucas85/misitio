@@ -4,8 +4,8 @@
     color:blue;
 }
 .boton{
-    color: red;
-    background-color: burlywood;
+    color: #000;
+    background-color: #ccc;
     border-radius: 5px;
     width: 150px;
     margin-left: auto;
